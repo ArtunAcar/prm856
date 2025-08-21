@@ -1,0 +1,4 @@
+print: ("hello world")
+ben pattes istiyom ama
+fırında olsun
+yada kumpir
